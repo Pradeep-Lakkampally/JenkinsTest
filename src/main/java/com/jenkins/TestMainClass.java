@@ -1,4 +1,4 @@
-package src.main.com.jenkins;
+package com.jenkins;
 
 public class TestMainClass {
 
